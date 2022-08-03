@@ -3,6 +3,6 @@
 ## How to create a smart doorbell in Home Assistant!
 #### This is also working in HomeKit!
 
-1. Create a [script](https://github.com/hxcde/myhassconfigs/blob/190e841e7040152a5c1d2fa8ffe77ec759a85177/makethingssmart/doorbell/doorbell#L1) that play the bell on you media players.
-2. Create an [automation](https://github.com/hxcde/myhassconfigs/blob/190e841e7040152a5c1d2fa8ffe77ec759a85177/makethingssmart/doorbell/doorbell#L23) that binds a button to the script.
+1. Create a [script](https://github.com/hxcde/smart-hass-doorbell/blob/caf74cba4de60b8a734a05c5657dea144b10d1a0/doorbell#L1) that play the bell on you media players.
+2. Create an [automation](https://github.com/hxcde/smart-hass-doorbell/blob/caf74cba4de60b8a734a05c5657dea144b10d1a0/doorbell#L23) that binds a button to the script.
 3. For Homekit you need to create a dummy switch, that switches back after some seconds.
